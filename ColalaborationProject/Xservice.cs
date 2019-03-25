@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace ColalaborationProject
 {
-    class Xservice
+    class Yservice
     {
-        public void DoSomething() { }
+        public string GetValue(string input)
+        {
+            return " ";
+        }
     }
 }
