@@ -11,5 +11,6 @@
     <Grid>
         <Button Name="Save"/>
         <Button Name="Cancel"/>
+        <Button Name="Help"/>
     </Grid>
 </Page>
