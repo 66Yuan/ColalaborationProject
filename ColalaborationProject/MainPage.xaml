@@ -10,7 +10,7 @@
 
     <Grid>
         <Button Name="About"/>
-        <Button Name="Save"/>
+        <Button Name="Modify"/>
         <Button Name="Cancel"/>
         <Button Name="Help"/>
     </Grid>
